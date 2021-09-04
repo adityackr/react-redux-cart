@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-redux-cart/static/css/main.aed27407.chunk.css",
+    "main.js": "/react-redux-cart/static/js/main.48ce83f8.chunk.js",
+    "main.js.map": "/react-redux-cart/static/js/main.48ce83f8.chunk.js.map",
+    "runtime-main.js": "/react-redux-cart/static/js/runtime-main.a1205b14.js",
+    "runtime-main.js.map": "/react-redux-cart/static/js/runtime-main.a1205b14.js.map",
+    "static/js/2.05e176e1.chunk.js": "/react-redux-cart/static/js/2.05e176e1.chunk.js",
+    "static/js/2.05e176e1.chunk.js.map": "/react-redux-cart/static/js/2.05e176e1.chunk.js.map",
+    "index.html": "/react-redux-cart/index.html",
+    "static/css/main.aed27407.chunk.css.map": "/react-redux-cart/static/css/main.aed27407.chunk.css.map",
+    "static/js/2.05e176e1.chunk.js.LICENSE.txt": "/react-redux-cart/static/js/2.05e176e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1205b14.js",
+    "static/js/2.05e176e1.chunk.js",
+    "static/css/main.aed27407.chunk.css",
+    "static/js/main.48ce83f8.chunk.js"
+  ]
+}
